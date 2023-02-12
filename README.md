@@ -1,1 +1,1 @@
-# holbertonscholl-shell
+# holbertonschool-shell
