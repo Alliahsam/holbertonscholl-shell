@@ -1,2 +1,2 @@
 #!/bin/bash
-find ~/lists -empty
+find /tmp -type d -type f  -empty
